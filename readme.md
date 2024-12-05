@@ -55,19 +55,3 @@ https://github.com/user-attachments/assets/55152dd1-e426-44b7-836c-de3bbf608791
 - Extend video selections
 - Modify settings in `src/types.ts`
 
-### 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### 📞 Contact
-
-Developed by Sahil Bhoite and Maheshwari Jadhav
-- LinkedIn:
-  [Sahil Bhoite](https://www.linkedin.com/in/sahil-bhoite/)
-  [Maheshwari Jadhav](https://www.linkedin.com/in/maheshwari-jadhav)
-
-
-
----
-
-*Explore the world, one virtual walk at a time.*
